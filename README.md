@@ -1,7 +1,4 @@
 # Similaridade de Cosseno Aplicada à Acessibilidade Digital
-
-**Análise Completa - Engenharia de Software | Itaú Unibanco**
-
 ---
 
 ## Contexto do Projeto
